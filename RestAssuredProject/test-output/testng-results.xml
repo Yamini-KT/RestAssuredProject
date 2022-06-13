@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-12T20:57:58 PDT" name="Default suite" finished-at="2022-06-12T20:58:23 PDT" duration-ms="25115">
+    <groups>
+    </groups>
+    <test started-at="2022-06-12T20:57:58 PDT" name="Default test" finished-at="2022-06-12T20:58:23 PDT" duration-ms="25115">
+      <class name="com.test.tests.TekArchApiTestScriptE2E">
+        <test-method is-config="true" signature="baseUri()[pri:0, instance:com.test.tests.TekArchApiTestScriptE2E@2cd2a21f]" started-at="2022-06-12T20:57:58 PDT" name="baseUri" finished-at="2022-06-12T20:58:01 PDT" duration-ms="2739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUri -->
+        <test-method signature="TC_001_validLogin()[pri:1, instance:com.test.tests.TekArchApiTestScriptE2E@2cd2a21f]" started-at="2022-06-12T20:58:01 PDT" name="TC_001_validLogin" finished-at="2022-06-12T20:58:07 PDT" duration-ms="6227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_validLogin -->
+        <test-method is-config="true" signature="baseUri()[pri:0, instance:com.test.tests.TekArchApiTestScriptE2E@2cd2a21f]" started-at="2022-06-12T20:58:07 PDT" name="baseUri" finished-at="2022-06-12T20:58:07 PDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUri -->
+        <test-method signature="TC_002_addUserData()[pri:2, instance:com.test.tests.TekArchApiTestScriptE2E@2cd2a21f]" started-at="2022-06-12T20:58:07 PDT" name="TC_002_addUserData" finished-at="2022-06-12T20:58:11 PDT" duration-ms="3241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002_addUserData -->
+        <test-method is-config="true" signature="baseUri()[pri:0, instance:com.test.tests.TekArchApiTestScriptE2E@2cd2a21f]" started-at="2022-06-12T20:58:11 PDT" name="baseUri" finished-at="2022-06-12T20:58:11 PDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUri -->
+        <test-method signature="TC_003_getUserData()[pri:3, instance:com.test.tests.TekArchApiTestScriptE2E@2cd2a21f]" started-at="2022-06-12T20:58:11 PDT" name="TC_003_getUserData" finished-at="2022-06-12T20:58:16 PDT" duration-ms="5577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003_getUserData -->
+        <test-method is-config="true" signature="baseUri()[pri:0, instance:com.test.tests.TekArchApiTestScriptE2E@2cd2a21f]" started-at="2022-06-12T20:58:16 PDT" name="baseUri" finished-at="2022-06-12T20:58:16 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUri -->
+        <test-method signature="TC_004_updateUserData()[pri:4, instance:com.test.tests.TekArchApiTestScriptE2E@2cd2a21f]" started-at="2022-06-12T20:58:16 PDT" name="TC_004_updateUserData" finished-at="2022-06-12T20:58:20 PDT" duration-ms="3940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_004_updateUserData -->
+        <test-method is-config="true" signature="baseUri()[pri:0, instance:com.test.tests.TekArchApiTestScriptE2E@2cd2a21f]" started-at="2022-06-12T20:58:20 PDT" name="baseUri" finished-at="2022-06-12T20:58:20 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUri -->
+        <test-method signature="TC_005_deleteUserData()[pri:5, instance:com.test.tests.TekArchApiTestScriptE2E@2cd2a21f]" started-at="2022-06-12T20:58:20 PDT" name="TC_005_deleteUserData" finished-at="2022-06-12T20:58:23 PDT" duration-ms="3215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_005_deleteUserData -->
+      </class> <!-- com.test.tests.TekArchApiTestScriptE2E -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
